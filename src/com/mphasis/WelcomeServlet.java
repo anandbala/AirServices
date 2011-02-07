@@ -41,7 +41,7 @@ public class WelcomeServlet extends HttpServlet {
 		String name = request.getParameter("name");
 		String welcomeMessage = "Welcome "+name;
 		/*
-		* Set the content type(MIME Type) of the response.
+		* Set the content type(MIME Type) of the response.f
 		*/
 		response.setContentType("text/html");
 		 
