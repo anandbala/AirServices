@@ -63,7 +63,7 @@ public class WelcomeServlet extends HttpServlet {
 			
 		}
 
-		 
+		System.out.println(name+""+name);
 		System.out.println(name);
 		
 		
