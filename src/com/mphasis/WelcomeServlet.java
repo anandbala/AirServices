@@ -44,6 +44,8 @@ public class WelcomeServlet extends HttpServlet {
 		* Set the content type(MIME Type) of the response.f
 		*/
 		response.setContentType("text/html");
+		response.setContentType("text/html");
+		 
 		 
 		/*
 		 * You can do any processing here. 
