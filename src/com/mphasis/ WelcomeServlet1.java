@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class WelcomeServlet
  */
-public class WelcomeServlet extends HttpServlet {
+public class WelcomeServlet1 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
@@ -53,7 +53,7 @@ public class WelcomeServlet extends HttpServlet {
 		 * 
 		 */
 		System.out.println(name);
-		String destination = "/jsp/resulta.jsp";
+		String destination = "/jsp/resulta34.jsp";
                  
 		try{
 
