@@ -45,6 +45,8 @@ public class WelcomeServlet1 extends HttpServlet {
 		*/
 		response.setContentType("text/html");
 		response.setContentType("text/html");
+                response.setContentType("text/html");
+		response.setContentType("text/html");  
 		 
 		 
 		/*
