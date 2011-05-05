@@ -70,6 +70,8 @@ String destination = "/jsp/resulta3536.jsp";
 		System.out.println(name);
 		System.out.println(origin);
 		System.out.println(origin);
+		System.out.println(name+""+name);
+		System.out.println(name);
 		
 	}
 
