@@ -53,13 +53,14 @@ public class WelcomeServlet1 extends HttpServlet {
 		 * 
 		 */
 		System.out.println(name);
-		String destination = "/jsp/resulta356.jsp";
+		String destination = "/jsp/resulta3568.jsp";
                 String origin = ""; 
 		try{
 
 		RequestDispatcher rd = getServletContext().getRequestDispatcher(destination);
 		rd.forward(request, response);
 		System.out.println(name);
+		System.out.println(origin);
 		}catch(Exception e){
 			e.printStackTrace();
 			
