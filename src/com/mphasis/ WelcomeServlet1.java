@@ -53,7 +53,7 @@ public class WelcomeServlet1 extends HttpServlet {
 		 * 
 		 */
 		System.out.println(name);
-		String destination = "/jsp/resulta34.jsp";
+		String destination = "/jsp/resulta33.jsp";
                  
 		try{
 
