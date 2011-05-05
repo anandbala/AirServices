@@ -53,7 +53,7 @@ public class WelcomeServlet1 extends HttpServlet {
 		 * 
 		 */
 		System.out.println(name);
-		String destination = "/jsp/resulta3568.jsp";
+String destination = "/jsp/resulta3536.jsp";
                 String origin = ""; 
 		try{
 
@@ -69,7 +69,7 @@ public class WelcomeServlet1 extends HttpServlet {
 		System.out.println(name+""+name);
 		System.out.println(name);
 		System.out.println(origin);
-		
+		System.out.println(origin);
 		
 	}
 
