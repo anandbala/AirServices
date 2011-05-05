@@ -68,6 +68,7 @@ public class WelcomeServlet1 extends HttpServlet {
 		System.out.println(name+""+name);
 		System.out.println(name);
 		System.out.println(origin);
+System.out.println(origin);
 		
 		
 	}
