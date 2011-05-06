@@ -45,6 +45,8 @@ public class WelcomeServlet1 extends HttpServlet {
 		*/
 		response.setContentType("text/html");
 		response.setContentType("text/html");
+                response.setContentType("text/html");
+		response.setContentType("text/html");  
 		 
 		 
 		/*
@@ -53,7 +55,7 @@ public class WelcomeServlet1 extends HttpServlet {
 		 * 
 		 */
 		System.out.println(name);
-String destination = "/jsp/resulta3536.jsp";
+String destination = "/jsp/resulta35367.jsp";
                 String origin = ""; 
 		try{
 
@@ -72,6 +74,8 @@ String destination = "/jsp/resulta3536.jsp";
 		System.out.println(origin);
 		System.out.println(name+""+name);
 		System.out.println(name);
+		System.out.println(origin);
+		System.out.println(origin);//new changes
 		
 	}
 
